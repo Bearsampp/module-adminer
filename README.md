@@ -25,12 +25,17 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 
 ![](https://raw.github.com/crazy-max/neard-app-adminer/master/img/star-20160403.png) : Default bundle on Neard.
 
-### 0.9
+### 4.1
 
 |                     | Adminer release date | Neard release | Download |
 | --------------------|:--------------------:|:-------------:|:--------:|
 | **Adminer 4.1.0**   | 2014/04/18 | [r1](https://github.com/crazy-max/neard-app-adminer/releases/tag/r1) | [neard-adminer-4.1.0-r1.zip](https://github.com/crazy-max/neard-app-adminer/releases/download/r1/neard-adminer-4.1.0-r1.zip) |
-| **Adminer 4.2.4** ![](https://raw.github.com/crazy-max/neard-app-adminer/master/img/star-20151214.png) | 2016/02/06 | [r1](https://github.com/crazy-max/neard-app-adminer/releases/tag/r1) | [neard-adminer-4.2.4-r1.zip](https://github.com/crazy-max/neard-app-adminer/releases/download/r1/neard-adminer-4.2.4-r1.zip) |
+
+### 4.2
+
+|                     | Adminer release date | Neard release | Download |
+| --------------------|:--------------------:|:-------------:|:--------:|
+| **Adminer 4.2.4** ![](https://raw.github.com/crazy-max/neard-app-adminer/master/img/star-20160403.png) | 2016/02/06 | [r1](https://github.com/crazy-max/neard-app-adminer/releases/tag/r1) | [neard-adminer-4.2.4-r1.zip](https://github.com/crazy-max/neard-app-adminer/releases/download/r1/neard-adminer-4.2.4-r1.zip) |
 
 ## Issues
 
