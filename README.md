@@ -1,6 +1,6 @@
 This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving Adminer app bundles.
 
-## Download and installation
+## Documentation and downloads
 
 See [Adminer Wiki page on Neard](https://github.com/crazy-max/neard/wiki/appAdminer).
 
