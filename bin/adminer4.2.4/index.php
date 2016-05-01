@@ -3,7 +3,7 @@
 include './config.php';
 
 function adminer_object() {
-	global $mysqlPort, $mariadbPort;
+	global $mysqlPort, $mysqlRootUser, $mysqlRootPwd, $mariadbPort, $mariadbRootUser, $mariadbRootPwd;
 
     include_once './plugins/plugin.php';
 
