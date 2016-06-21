@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/appAdminer#latest) before downloading.
 
+## r3 (2016/06/21)
+
+* New bundle : 4.2.5
+
 ## r2 (2016/04/30)
 
 * User and password is now required  (default user is `root` and empty password)
