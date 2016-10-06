@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/appAdminer#latest) before downloading.
 
+## r4 (2016/10/07)
+
+* Handle MySQL and PostgreSQL with [login-servers-enhanced](https://github.com/crazy-max/login-servers-enhanced) plugin
+
 ## r3 (2016/06/21)
 
 * New bundle : 4.2.5

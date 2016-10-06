@@ -3,7 +3,9 @@
 include './config.php';
 
 function adminer_object() {
-	global $mysqlPort, $mysqlRootUser, $mysqlRootPwd, $mariadbPort, $mariadbRootUser, $mariadbRootPwd;
+    global $mysqlPort, $mysqlRootUser, $mysqlRootPwd,
+    $mariadbPort, $mariadbRootUser, $mariadbRootPwd,
+    $postgresqlPort, $postgresqlRootUser, $postgresqlRootPwd;
 
     include_once './plugins/plugin.php';
 
@@ -12,10 +14,11 @@ function adminer_object() {
     }
     
     $plugins = array(
-        new AdminerLoginServers(
+        new AdminerLoginServersEnhanced(
             array(
-                '127.0.0.1:' . $mysqlPort => 'MySQL port ' . $mysqlPort,
-                '127.0.0.1:' . $mariadbPort => 'MariaDB port ' . $mariadbPort
+                new AdminerLoginServerEnhanced('127.0.0.1:' . $mysqlPort, 'MySQL port ' . $mysqlPort, 'server'),
+                new AdminerLoginServerEnhanced('127.0.0.1:' . $mariadbPort, 'MariaDB port ' . $mariadbPort, 'server'),
+                new AdminerLoginServerEnhanced('127.0.0.1:' . $postgresqlPort, 'PostgreSQL port ' . $postgresqlPort, 'pgsql')
             )
         ),
     );
