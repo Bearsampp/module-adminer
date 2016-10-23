@@ -9,6 +9,7 @@ See [Adminer Wiki page on Neard](https://github.com/crazy-max/neard/wiki/appAdmi
 * https://www.adminer.org/
 * https://sourceforge.net/projects/adminer/files/Adminer/
 * https://github.com/vrana/adminer
+* https://github.com/crazy-max/login-servers-enhanced
 
 ## Issues
 
