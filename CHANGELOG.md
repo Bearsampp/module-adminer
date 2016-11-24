@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/appAdminer#latest) before downloading.
 
+## r5 (2016/11/24)
+
+* Bug on PHP 7.x cause plugin.php was not updated to the latest version. ([Issue #169](https://github.com/crazy-max/neard/issues/169))
+
 ## r4 (2016/10/07)
 
 * Handle MySQL and PostgreSQL with [login-servers-enhanced](https://github.com/crazy-max/login-servers-enhanced) plugin
