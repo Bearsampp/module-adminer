@@ -1,8 +1,12 @@
 # Changelog
 
+## r6 (2017/03/22)
+
+* Handle MongoDB (Issue crazy-max/neard#166)
+
 ## r5 (2016/11/24)
 
-* Bug on PHP 7.x cause plugin.php was not updated to the latest version. (Issue #169)
+* Bug on PHP 7.x cause plugin.php was not updated to the latest version. (Issue crazy-max/neard#169)
 
 ## r4 (2016/10/07)
 
