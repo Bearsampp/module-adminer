@@ -2,7 +2,7 @@
 
 ## r6 (2017/03/22)
 
-* Handle MongoDB (Issue crazy-max/neard#166)
+* Handle MongoDB (Issue crazy-max/neard#237)
 
 ## r5 (2016/11/24)
 
