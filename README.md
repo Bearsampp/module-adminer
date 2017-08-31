@@ -1,11 +1,11 @@
 [![GitHub release](https://img.shields.io/github/release/crazy-max/neard-app-adminer.svg?style=flat-square)](https://github.com/crazy-max/neard-app-adminer/releases/latest)
 ![Total downloads](https://img.shields.io/github/downloads/crazy-max/neard-app-adminer/total.svg?style=flat-square)
 
-This a module of [Neard project](https://github.com/crazy-max/neard) involving Adminer app bundles.
+This is a module of [Neard project](https://github.com/crazy-max/neard) involving Adminer.
 
 ## Documentation and downloads
 
-http://neard.io/apps/adminer
+http://neard.io/modules/adminer
 
 ## Issues
 
