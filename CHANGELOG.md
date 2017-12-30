@@ -2,7 +2,7 @@
 
 ## r7 (2017/04/17)
 
-* New bundle : 4.3.1 (Issue neard/neard#248)
+* New release : 4.3.1 (Issue neard/neard#248)
 
 ## r6 (2017/03/22)
 
@@ -18,7 +18,7 @@
 
 ## r3 (2016/06/21)
 
-* New bundle : 4.2.5 (Issue neard/neard#169)
+* New release : 4.2.5 (Issue neard/neard#169)
 
 ## r2 (2016/04/30)
 
@@ -26,5 +26,5 @@
 
 ## r1 (2016/04/03)
 
-* New bundle : 4.2.4 (Issue neard/neard#169)
-* Init repo with Adminer bundles from Neard
+* New release : 4.2.4 (Issue neard/neard#169)
+* Init repo with Adminer releases from Neard
