@@ -1,5 +1,9 @@
 # Changelog
 
+## r8 (2018/02/12)
+
+* New release : 4.6.1 (Issue neard/neard#361)
+
 ## r7 (2017/04/17)
 
 * New release : 4.3.1 (Issue neard/neard#248)
