@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving Ad
 
 ## Documentation and downloads
 
-http://neard.io/modules/adminer
+https://neard.io/modules/adminer
 
 ## Issues
 
