@@ -1,12 +1,12 @@
-[![GitHub release](https://img.shields.io/github/release/neard/module-adminer.svg?style=flat-square)](https://github.com/neard/module-adminer/releases/latest)
-![Total downloads](https://img.shields.io/github/downloads/neard/module-adminer/total.svg?style=flat-square)
+[![GitHub release](https://img.shields.io/github/release/Bearsampp/module-adminer.svg?style=flat-square)](https://github.com/Bearsampp/module-adminer/releases/latest)
+![Total downloads](https://img.shields.io/github/downloads/Bearsampp/module-adminer/total.svg?style=flat-square)
 
-This is a module of [Neard project](https://github.com/neard/neard) involving Adminer.
+This is a module of [Bearsampp project](https://github.com/Bearsampp/Bearsampp) involving Adminer.
 
 ## Documentation and downloads
 
-https://neard.io/modules/adminer
+http://bearsampp.com/module?view=article&id=153&catid=84
 
 ## Issues
 
-Issues must be reported on [Neard repository](https://github.com/neard/neard/issues).
+Issues must be reported on [Bearsampp repository](https://github.com/Bearsampp/Bearsampp/issues).
