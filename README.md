@@ -12,3 +12,6 @@ http://bearsampp.com/module?view=article&id=153&catid=84
 ## Issues
 
 Issues must be reported on [Bearsampp repository](https://github.com/Bearsampp/Bearsampp/issues).
+
+## Statistics
+![Alt](https://repobeats.axiom.co/api/embed/a987e7246bc69e96fd61b7a69ca3d0897e5a28da.svg "Repobeats analytics image")
