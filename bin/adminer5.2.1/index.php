@@ -7,12 +7,10 @@ function adminer_object() {
     $mariadbPort, $mariadbRootUser, $mariadbRootPwd,
     $postgresqlPort, $postgresqlRootUser, $postgresqlRootPwd;
 
-    include_once './plugins/plugin.php';
-
     foreach (glob('plugins/*.php') as $filename) {
         include_once './' . $filename;
     }
-    
+
     $plugins = array(
         new AdminerLoginServersEnhanced(
             array(
@@ -22,14 +20,14 @@ function adminer_object() {
             )
         ),
     );
-    
+
     /* It is possible to combine customization and plugins:
     class AdminerCustomization extends AdminerPlugin {
     }
     return new AdminerCustomization($plugins);
     */
-    
-    return new AdminerPlugin($plugins);
+
+    return new Adminer\Plugins($plugins);
 }
 
 include './adminer.php';
